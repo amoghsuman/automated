@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat May 28 19:02:00 2022
 
-@author: HP
-"""
 from selenium import webdriver
 import os
 from selenium.webdriver.common.by import By
