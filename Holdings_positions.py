@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Zerodha Kite Connect Intro
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
-"""
 from kiteconnect import KiteConnect
 import os
 import pandas as pd
