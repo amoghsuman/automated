@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 11 17:44:12 2022
 
-@author: HP
-"""
 import pandas as pd
 import os
 from datetime import datetime
