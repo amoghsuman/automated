@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Zerodha kiteconnect automated authentication (linux machine)
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
-"""
 
 from kiteconnect import KiteConnect
 from selenium import webdriver
